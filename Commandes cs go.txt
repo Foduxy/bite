@@ -1,0 +1,2 @@
+Temps occasio / comp : mp_warmuptime 99999; mp_do_warmup_period 1; mp_restartgame 1
+gre : give weapon_hegrenadegive weapon_hegrenadegive weapon_incgrenadegive weapon_smokegrenade
